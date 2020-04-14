@@ -15,7 +15,7 @@ chmod -R a+w /github/workspace
 # Build the Mkdocs site
 ####################################################
 
-mkdocs build --trace
+mkdocs build
 
 ####################################################
 # Build completed
