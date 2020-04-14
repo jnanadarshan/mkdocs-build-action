@@ -1,4 +1,4 @@
-name: "mkdocs2S3"
+name: "mkdocs-build-action"
 description: "Github action to build an MkDocs site and upload to S3"
 author: thomasattree
 runs:
