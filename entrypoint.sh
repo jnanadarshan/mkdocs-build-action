@@ -15,6 +15,8 @@ chmod -R a+w /github/workspace
 # Build the Mkdocs site
 ####################################################
 
+pip install -r requirements.txt
+
 mkdocs build
 
 ####################################################
